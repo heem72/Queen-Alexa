@@ -1,14 +1,14 @@
 
-##  ⦁═𝗤𝗨𝗘𝗘𝗡 👸 𝗔𝗟𝗘𝗫𝗔═⦁
+##  ⦁═ryo bot═⦁
 
 
-    Queen alexa is the whatsapp bot project.
-    it can help us to any work in some command.
-    This is a best whatsapp robot with artificial intelligent.
+    ryo bot هو مشروع بوت واتساب.
+     يمكن أن يساعدنا في أي عمل في بعض الأوامر.
+     هذا هو أفضل روبوت واتساب بذكاء اصطناعي.
 
 
 <p align="center">
-    <a href="https://github.com/Chamodya-official">
+    <a href="https://github.com/heem72">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Queen+alexa...+Thank+You+For+Visiting+us...."
             alt="Typing SVG"
